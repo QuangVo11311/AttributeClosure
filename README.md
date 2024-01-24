@@ -1,3 +1,4 @@
 Attribute Closure
-Tìm khoá
-Tìm Bao đóng
+- Tìm Bao đóng
+- Tìm Khoá
+- Tìm All Khoá
